@@ -1,0 +1,6 @@
+[submodule "python-wsi-preprocessing"]
+	path = python-wsi-preprocessing
+	url = git@github.com:mingrui/python-wsi-preprocessing.git
+[submodule "py-wsi"]
+	path = py-wsi
+	url = git@github.com:mingrui/py-wsi.git
