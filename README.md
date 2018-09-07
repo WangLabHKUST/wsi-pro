@@ -2,5 +2,5 @@
 wsi image processing workflow
 
 ## Dependencies
-https://github.com/deroneriksson/python-wsi-preprocessing  
-https://github.com/ysbecca/py-wsi
+https://github.com/mingrui/python-wsi-preprocessing
+https://github.com/mingrui/py-wsi
