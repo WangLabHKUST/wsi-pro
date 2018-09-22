@@ -4,7 +4,11 @@ wsi image processing pipeline
 ## Introduction
 This is our wsi image processing pipeline to make it easier for researchers to process their datasets.  
 
-There are four major parts, pre-processing, data augmentation, data loading and post-processing.
+There are four major parts:  
+1. pre-processing  
+2. data augmentation  
+3. data loading  
+4. post-processing.
 
 ## Dependencies
 1. Preprocssing functions are a fork of Deron Eriksson's python-wsi-preprocessing code:  
