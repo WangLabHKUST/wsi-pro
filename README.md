@@ -7,7 +7,7 @@ This is our wsi image processing pipeline to make it easier for researchers to p
 There are four major parts, pre-processing, data augmentation, data loading and post-processing.
 
 ## Dependencies
-1. Some preprocssing functions are a fork of Deron Eriksson's python-wsi-preprocessing code:  
+1. Preprocssing functions are a fork of Deron Eriksson's python-wsi-preprocessing code:  
 original project: https://github.com/deroneriksson/python-wsi-preprocessing  
 In our fork, we have added some features to allow for more general use cases:  
 our fork: https://github.com/mingrui/python-wsi-preprocessing  
