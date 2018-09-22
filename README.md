@@ -2,7 +2,7 @@
 wsi image processing pipeline
 
 ## Introduction
-This is our wsi image processing pipeline to make it easier for researchers to process their datasets.  
+This is our wsi image processing pipeline to make it easier for researchers to use on their datasets.  
 
 There are four major parts:  
 1. pre-processing  
