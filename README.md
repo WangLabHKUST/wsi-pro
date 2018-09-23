@@ -25,7 +25,7 @@ our fork: https://github.com/mingrui/python-wsi-preprocessing
 2. We are a contributor to the py-wsi project, this tool is used to standardize data loading:  
 original project: https://github.com/ysbecca/py-wsi  
 In our fork, we have added more features:    
-https://github.com/mingrui/py-wsi
+our fork: https://github.com/mingrui/py-wsi
 
 
 ## Contact
