@@ -1,6 +1,12 @@
 # wsi-pro
 wsi image processing pipeline
 
+## Ownership
+[Wang Lab at HKUST](http://wang-lab.ust.hk/)
+
+## Status
+Active Development
+
 ## Introduction
 This is our wsi image processing pipeline to make it easier for researchers to use on their datasets.  
 
@@ -21,3 +27,6 @@ original project: https://github.com/mingrui/py-wsi
 In our fork, we have added more features:    
 https://github.com/mingrui/py-wsi
 
+
+## Contact
+For technical questions, please contact Mingrui via email: mingrui@ust.hk
